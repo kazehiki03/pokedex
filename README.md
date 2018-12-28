@@ -1,10 +1,9 @@
 # pokedex
+node + Explessのお試しコード
 
 ## 環境
-
-### node
-ver: 10.14.2
-
+node: v10.2.1
+npm: 5.6.0
 
 ### 構築
 #### AWS CLIのインストール

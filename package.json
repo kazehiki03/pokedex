@@ -1,0 +1,22 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "## 環境",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazehiki03/pokedex.git"
+  },
+  "author": "kazehiki03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazehiki03/pokedex/issues"
+  },
+  "homepage": "https://github.com/kazehiki03/pokedex#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
